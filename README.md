@@ -1,5 +1,5 @@
-# Practice week 2 of WWW programming (Java) 
-Create E-commerce website selling phones and accessories 
+# Practice week 3 of WWW programming (Java) - Continue(lab-week-2)
+Create E-commerce website selling phones and accessories
 <table style="border-collapse: collapse;">
         <tr>
             <td style="border: 1px solid black;padding: 10px;">FullName: </td>
